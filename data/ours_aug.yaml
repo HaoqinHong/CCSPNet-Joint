@@ -1,0 +1,12 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: D:\ProgrammingProjects\PythonProjects\Contextual-Object-Detection\CCTSDB_YOLO_aug\train.txt
+# val: D:\ProgrammingProjects\PythonProjects\Contextual-Object-Detection\CCTSDB_YOLO\test.txt
+# test: D:\ProgrammingProjects\PythonProjects\Contextual-Object-Detection\CCTSDB_YOLO\test.txt
+
+val: D:\ProgrammingProjects\PythonProjects\Contextual-Object-Detection\CCTSDB_YOLO_aug\test.txt
+test: D:\ProgrammingProjects\PythonProjects\Contextual-Object-Detection\CCTSDB_YOLO_aug\test.txt
+# number of classes
+nc: 3
+
+# class names
+names: ["warning", "prohibitory", "mandatory"]
