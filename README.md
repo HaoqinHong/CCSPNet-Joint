@@ -11,8 +11,8 @@ The repository includes:
     CCSPNet-Joint/models/yolov5l-efficientvit-b2-cot.yaml
 
 2.pretrained_pth:
-    Download link：https://pan.baidu.com/s/1wfMUxK3Z09R00wus3XzVEA 
-    Verification code：wor4
+    Download link：[https://pan.baidu.com/s/1wfMUxK3Z09R00wus3XzVEA](https://pan.baidu.com/s/1Vo-Xe07KtYYm5TF9Vx4DSQ) 
+    Verification code：1rvo 
     Content:
     ccspnet-joint.pt
     our_deblur40.pth
