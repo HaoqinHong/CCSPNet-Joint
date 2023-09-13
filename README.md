@@ -5,9 +5,12 @@ This is the joint training model for traffic sign detection and image denoising 
 The image denoising module of our model utilizes the 4kDehazing model(cite: https://github.com/zzr-idam/4KDehazing.git), 
 while the object detection module incorporates the improved model CCSPNet, 
 which is based on the YOLOv5 baseline, as proposed in our article.
+This model is a joint training model, and each training session will generate two pth files: "best.pt" for the object detection model 
+and "best_4k.pt" for the image denoising model.
 
 The proposed method and comparisons in this paper were conducted under a unified data augmentation approach. To replicate the experiments, you will need to download the dataset and pre-trained weights and place them in a specific directory. 
 Then, in the terminal, run the command：python train_ccspnet_joint.py --rect
+
 
 The repository includes:
 
