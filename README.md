@@ -10,6 +10,7 @@ The proposed method and comparisons in this paper were conducted under a unified
 Then, in the terminal, run the command：python train_ccspnet_joint.py --rect
 
 The repository includes:
+
 1.CCSPNet model:
     CCSPNet-Joint/models/yolov5l-efficientvit-b2-cot.yaml
 
