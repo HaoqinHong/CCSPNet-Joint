@@ -11,6 +11,9 @@ and "best_4k.pt" for the image denoising model.
 The proposed method and comparisons in this paper were conducted under a unified data augmentation approach. To replicate the experiments, you will need to download the dataset and pre-trained weights and place them in a specific directory. 
 Then, in the terminal, run the command：python train_ccspnet_joint.py --rect
 
+It is worth noting that the joint training model defines a joint loss function calculation formula as 
+loss = alpha * loss1 + beta * loss2, 
+where alpha and beta are hyperparameters. Through extensive experimentation, it has been found that setting alpha = beta = 0.5 yields good results.
 
 The repository includes:
 
