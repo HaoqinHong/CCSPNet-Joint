@@ -38,4 +38,14 @@ The repository includes:
 
 6.detect_joint.py
 
-
+Please cite our work:
+"'
+@misc{hong2023ccspnetjoint,
+      title={CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions}, 
+      author={Haoqin Hong and Yue Zhou and Xiangyu Shu and Xiangfang Hu},
+      year={2023},
+      eprint={2309.06902},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+"'
