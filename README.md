@@ -40,7 +40,7 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
 ##### Please cite our work:
       @misc{hong2023ccspnetjoint,
            title={CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions}, 
-           author={Haoqin Hong and Yue Zhou and Xiangyu Shu and Xiangfang Hu},
+           author={Haoqin Hong and Yue Zhou and Xiangyu Shu and Xiaofang Hu},
            year={2023},
            eprint={2309.06902},
            archivePrefix={arXiv},
