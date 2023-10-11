@@ -16,10 +16,10 @@
 ##### 
 ##### The repository includes:
 
-##### 1.CCSPNet model:
+###### 1.CCSPNet model:
      CCSPNet-Joint/models/yolov5l-efficientvit-b2-cot.yaml
 
-##### 2.pretrained_pth:
+###### 2.pretrained_pth:
      Download link：[https://pan.baidu.com/s/1wfMUxK3Z09R00wus3XzVEA](https://pan.baidu.com/s/1Vo-Xe07KtYYm5TF9Vx4DSQ) 
      Verification code：1rvo 
      Content:
@@ -27,24 +27,23 @@
      our_deblur40.pth
      resnet50-0676ba61.pth
 
-##### 3.Dataset:
+###### 3.Dataset:
     CCTSDB: https://github.com/csust7zhangjm/CCTSDB.git
     Augment method for CCTSDB-AUG:  StimulateExtreme.py
 
-##### 4.CCSPNet-Joint/data/ours_aug.yaml
+###### 4.CCSPNet-Joint/data/ours_aug.yaml
 
-##### 5.train_ccspnet_joint.py
+###### 5.train_ccspnet_joint.py
 
-##### 6.detect_joint.py
+###### 6.detect_joint.py
 
 ##### Please cite our work:
-##### "'
-##### @misc{hong2023ccspnetjoint,
-#####       title={CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions}, 
-#####       author={Haoqin Hong and Yue Zhou and Xiangyu Shu and Xiangfang Hu},
-#####       year={2023},
-#####       eprint={2309.06902},
-#####       archivePrefix={arXiv},
-#####       primaryClass={cs.CV}
-##### }
-##### "'
+ @misc{hong2023ccspnetjoint,
+      title={CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions}, 
+      author={Haoqin Hong and Yue Zhou and Xiangyu Shu and Xiangfang Hu},
+      year={2023},
+      eprint={2309.06902},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
