@@ -26,6 +26,9 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
      ccspnet-joint.pt
      our_deblur40.pth
      resnet50-0676ba61.pth
+     
+     checkpoints\efficientViT\b2-r288.pt: 
+     Download link: https://pan.baidu.com/s/1gmXAfND0roMpjCeLO4htlg    Verification code：tl7e 
 
 ###### 3.Dataset:
     CCTSDB: https://github.com/csust7zhangjm/CCTSDB.git
