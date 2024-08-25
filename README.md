@@ -1,11 +1,18 @@
 #### This is the joint training model for traffic sign detection and image denoising proposed in our paper titled "CCSPNET-JOINT: Efficient Joint Training Method for Traffic Sign Detection under Extreme Conditions".
+
+##### UPDATE 2024.3.15
 ##### Our paper was accepted by 2024 International Joint Conference on Neural Network(IJCNN).
+
+##### UPDATE 2024.8.25 
+##### To make it easier for users to use our methodology, we uploaded our full dataset CCSTDB-AUG on the KAGGLE platform (Please cite our paper): 
+
+##### You can compare our metrics in *[Paper with Code](https://paperswithcode.com/paper/ccspnet-joint-efficient-joint-training-method)*.
 
 The image denoising module of our model utilizes the 4kDehazing model(cite: https://github.com/zzr-idam/4KDehazing.git), 
 while the object detection module incorporates the improved model CCSPNet, 
 which is based on the YOLOv5 baseline, as proposed in our article.
-This model is a joint training model, and each training session will generate two pth files: "best.pt" for the object detection model 
-and "best_4k.pt" for the image denoising model.
+This model is a joint training model, and each training session will generate two pth files: 'best.pt' for the object detection model 
+and 'best_4k.pt' for the image denoising model.
 
 The proposed method and comparisons in this paper were conducted under a unified data augmentation approach. To replicate the experiments, you will need to download the dataset and pre-trained weights and place them in a specific directory. 
 Then, in the terminal, run the command：python train_ccspnet_joint.py --rect
@@ -33,12 +40,7 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
 ###### 3.Dataset:
     CCTSDB: https://github.com/csust7zhangjm/CCTSDB.git
     Augment method for CCTSDB-AUG:  StimulateExtreme.py
-
-###### 4.CCSPNet-Joint/data/ours_aug.yaml
-
-###### 5.train_ccspnet_joint.py
-
-###### 6.detect_joint.py
+    We also provide our whole dataset in KAGGLE.
 
 ##### Please cite our work:
       @misc{hong2023ccspnetjoint,
