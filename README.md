@@ -8,6 +8,7 @@
 
 ###### You can also compare our metrics in *[Paper with Code](https://paperswithcode.com/paper/ccspnet-joint-efficient-joint-training-method)*.
 
+##### Project Guidence 
 The image denoising module of our model utilizes the 4kDehazing model(cite: https://github.com/zzr-idam/4KDehazing.git), 
 while the object detection module incorporates the improved model CCSPNet, 
 which is based on the YOLOv5 baseline, as proposed in our article.
