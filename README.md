@@ -44,7 +44,7 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
     We also provide our whole dataset in KAGGLE.
 
 ##### Please cite our work:
-      @misc{hong2023ccspnetjoint,
+      @article{hong2023ccspnetjoint,
            title={CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions}, 
            author={Haoqin Hong and Yue Zhou and Xiangyu Shu and Xiaofang Hu},
            year={2023},
