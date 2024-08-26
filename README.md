@@ -4,7 +4,7 @@
 ###### Our paper was accepted by the 2024 International Joint Conference on Neural Networks (IJCNN 2024 Oral).
 
 ##### UPDATE 2024.8.25 
-###### To make using our methodology easier, we uploaded our full dataset *[CCSTDB-AUG](https://www.kaggle.com/datasets/haoqinhong/cctsdb-aug-ijcnn-2024)* on the KAGGLE platform (Please cite our paper and dataset).
+###### To make using our methodology easier, we uploaded our full dataset *[CCTSDB-AUG](https://www.kaggle.com/datasets/haoqinhong/cctsdb-aug-ijcnn-2024)* on the KAGGLE platform (Please cite our paper and dataset).
 
 ###### You can also compare our metrics in *[Paper with Code](https://paperswithcode.com/paper/ccspnet-joint-efficient-joint-training-method)*.
 
