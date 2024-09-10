@@ -50,7 +50,6 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
       title={CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions}, 
       year={2024},
       pages={1-8},
-      keywords={Training;Visualization;Accuracy;Rain;Noise reduction;Object detection;Feature extraction;Traffic sign detection;Joint training method},
       doi={10.1109/IJCNN60899.2024.10651346}}
 
 
