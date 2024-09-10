@@ -44,12 +44,15 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
     We also provide our whole dataset in KAGGLE.
 
 ##### Please cite our work:
-      @article{hong2023ccspnetjoint,
-           title={CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions}, 
-           author={Haoqin Hong and Yue Zhou and Xiangyu Shu and Xiaofang Hu},
-           year={2023},
-           eprint={2309.06902},
-           archivePrefix={arXiv},
-           primaryClass={cs.CV}
-     }
+ @INPROCEEDINGS{10651346,
+   author={Hong, Haoqin and Zhou, Yue and Shu, Xiangyu and Hu, Xiaofang},
+   booktitle={2024 International Joint Conference on Neural Networks (IJCNN)}, 
+   title={CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions}, 
+   year={2024},
+   volume={},
+   number={},
+   pages={1-8},
+   keywords={Training;Visualization;Accuracy;Rain;Noise reduction;Object detection;Feature extraction;Traffic sign detection;Joint training method},
+   doi={10.1109/IJCNN60899.2024.10651346}}
+
 
