@@ -1,5 +1,5 @@
 #### This is the joint training model for traffic sign detection and image denoising proposed in our paper titled "CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions".
-![Method](ours_method_ccspnet_joint.pdf)
+<embed src="images/ours_method_ccspnet_joint.pdf" alt="Research Image" style="width: 100%; height: 250px;">
 ##### UPDATE 2024.3.15
 
 ###### Our paper was accepted by the 2024 International Joint Conference on Neural Networks (IJCNN 2024 Oral).
