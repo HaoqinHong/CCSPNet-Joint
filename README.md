@@ -33,8 +33,8 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
 
 ###### 2.pretrained_pth:
      Renew 2025.3.31
-     Download link：https://pan.baidu.com/s/111vEd-xxaWF5Erfzj5wt1w
-     Verification code：hrie
+     Download link： https://pan.baidu.com/s/1wnC7apkmf2W0OgqxLhDpgw 
+     Verification code：e3tu
      Content:
      ccspnet-joint.pt
      our_deblur40.pth
