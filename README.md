@@ -32,8 +32,9 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
      CCSPNet-Joint/models/yolov5l-efficientvit-b2-cot.yaml
 
 ###### 2.pretrained_pth:
-     Download link：[https://pan.baidu.com/s/1wfMUxK3Z09R00wus3XzVEA](https://pan.baidu.com/s/1Vo-Xe07KtYYm5TF9Vx4DSQ) 
-     Verification code：1rvo 
+     Renew 2025.3.31
+     Download link：[[https://pan.baidu.com/s/1wfMUxK3Z09R00wus3XzVEA](https://pan.baidu.com/s/1Vo-Xe07KtYYm5TF9Vx4DSQ)](https://pan.baidu.com/s/111vEd-xxaWF5Erfzj5wt1w) 
+     Verification code：hrie
      Content:
      ccspnet-joint.pt
      our_deblur40.pth
