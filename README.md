@@ -1,7 +1,7 @@
+![](authors.png)
 #### This is the joint training model for traffic sign detection and image denoising proposed in our paper titled "CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions".
-<center class="half">
-<img src="overview.png" width="200"/><img src="ccspnet.png" width="200"/>
-</center>
+
+![](overview.png)
 
 
 ##### UPDATE 2024.3.15
@@ -32,6 +32,8 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
 
 ###### 1.CCSPNet model:
      CCSPNet-Joint/models/yolov5l-efficientvit-b2-cot.yaml
+
+![](ccspnet.png)
 
 ###### 2.pretrained_pth:
      Renew 2025.7.12
