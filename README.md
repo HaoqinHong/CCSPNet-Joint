@@ -32,6 +32,9 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
      CCSPNet-Joint/models/yolov5l-efficientvit-b2-cot.yaml
 
 ###### 2.pretrained_pth:
+     Renew 2025.7.12
+     Update the Download Link in Kaggle: https://www.kaggle.com/datasets/haoqinhong/pre-tained-weight-of-ccspnet-joint
+     
      Renew 2025.3.31
      Download link： https://pan.baidu.com/s/1wnC7apkmf2W0OgqxLhDpgw 
      Verification code：e3tu
