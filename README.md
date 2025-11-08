@@ -1,7 +1,7 @@
 ![](authors.png)
 
 
-![](overview.png)
+![](ccspnet.png)
 
 
 ##### UPDATE 2024.3.15
@@ -33,8 +33,6 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
 ###### 1.CCSPNet model:
      CCSPNet-Joint/models/yolov5l-efficientvit-b2-cot.yaml
 
-![](ccspnet.png)
-
 ###### 2.pretrained_pth:
      Renew 2025.7.12
      Update the Download Link in Kaggle: https://www.kaggle.com/datasets/haoqinhong/pre-tained-weight-of-ccspnet-joint
@@ -63,6 +61,7 @@ where alpha and beta are hyperparameters. Through extensive experimentation, it 
       year={2024},
       pages={1-8},
       doi={10.1109/IJCNN60899.2024.10651346}}
+
 
 
 
