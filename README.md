@@ -1,8 +1,6 @@
 ![](authors.png)
 
-
-![](ccspnet.png)
-
+![alt text](image.png)
 
 ##### UPDATE 2024.3.15
 
